@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Sploder
+Exec=env WINEPREFIX="/home/melsh/.wine" wine C:\\\\users\\\\Public\\\\Desktop\\\\Sploder.lnk
+Type=Application
+StartupNotify=true
+Comment=Sploder Launcher
+Path=/home/melsh/.wine/dosdevices/c:/Program Files/Sploder
+Icon=F87E_Sploder.0
+StartupWMClass=sploder.exe
